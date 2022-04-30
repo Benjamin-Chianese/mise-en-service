@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "~6.0",
+        "rlanvin/php-ip": "2.0.0"
+    }
+}
